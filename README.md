@@ -151,4 +151,4 @@ WaitEating
 
 ## 프로젝트 실행 영상
 
-<iframe width="640" height="360" src="https://www.naver.com"></iframe>
+<iframe width="640" height="360" src="https://youtu.be/1EvLXo0vmYg" frameborder="0" gesture="media" allowfullscreen=""></iframe>
