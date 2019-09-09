@@ -1,0 +1,52 @@
+Initialize engine version: 5.4.0f3 (a6d8d714de6f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     2018 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.042 seconds
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\녹운\Desktop\녹운\2016 2학기\로봇지능\2011112910황녹운 - 소스코드 및 실행파\2011112910_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.003468 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 594 -> priority: 1 
+  Thread -> id: 3530 -> priority: 1 
+grass!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+grass!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+there`s a ship
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+grass!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+grass!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
+grass!!
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebugBindings.gen.cpp Line: 42)
+
